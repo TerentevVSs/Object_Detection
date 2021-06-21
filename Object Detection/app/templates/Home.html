@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+{% extends "Base.html" %}
+
+{% block content %}
+	<h1><center>Hello, {{user.username}}!</center></h1>
+        Your IP: {{user.IP}} <br>
+        Your browser: {{user.browser}} <br>
+        We know all about you.  ^-^ 
+	<hr>
+	<p>If you want to test our Neural Network on photos, go to the page "Upload" or "Link". </p>
+{% endblock %}
