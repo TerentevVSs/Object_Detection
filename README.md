@@ -6,4 +6,4 @@ In file Object_Detection.ipynb you can see the model preparation and a report on
 
 
 To start this site you should clone this repository, instal missing libraries, start "main.py" and open the site in browser.
-We provide 3 different models for ru->en and en->ru translation. 
+
