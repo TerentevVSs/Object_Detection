@@ -1,8 +1,8 @@
-# Object_Detection
-The Machine Translation project at the Summer School in 2021.
+# Object Detecion
+First semester project at Deep Learning School
 
 
-In the folder Models Notebooks you can find Colab Notebooks for training Models.
+In file Object_Detection.ipynb you can see the model preparation and a report on problems and ways to solve them.
 
 
 To start this site you should clone this repository, instal missing libraries, start "main.py" and open the site in browser.
